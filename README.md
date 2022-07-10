@@ -19,7 +19,7 @@ Voici les screenshots du site que j'ai réalisé.
 
 
 
-# Comment j'ai choisie le thème Wordpress.
+# Comment j'ai choisi le thème Wordpress.
 
 J’ai cherché un thème générique, rapide, résponsif et avec des bonnes pratiques SEO. J’ai donc
 choisi le thème Océan WP child. J’ai eu d’occasion d’utiliser le thème Ocean WP pendant des
