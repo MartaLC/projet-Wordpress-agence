@@ -1,5 +1,10 @@
 # projet-Wordpress-agence
 Projet d'un site d'agence immobilière pour vendre ou louer des chalets de luxe.
+Voici la page d'accueil que j'ai réalisé:
+
+
+
+
 
 # Comment démarrer le site en local.
 
