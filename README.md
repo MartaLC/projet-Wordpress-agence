@@ -62,4 +62,11 @@ C:\wampp64\www\chalets
 En suite démarrer Wampserver64. Le site est disponible à l'addresse suivante:
 http://localhost/chalets/
 
+# Comment modifier le site en local.
 
+Accéder l'addresse suivante: 
+http://localhost/chalets/wp-admin/
+
+Vous-êtes maintenant connecté et vous avez access au votre tableau de bord Wordpress:
+
+![tableau_de_bord](https://user-images.githubusercontent.com/72812884/178147398-0e31419e-3012-494e-aaa4-cd98c1f067f9.png)
