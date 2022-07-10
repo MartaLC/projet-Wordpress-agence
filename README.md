@@ -1,6 +1,7 @@
 # projet-Wordpress-agence
 Projet d'un site d'agence immobilière pour vendre ou louer des chalets de luxe.
 Voici la page d'accueil que j'ai réalisé:
+![page_accueil_agence](https://user-images.githubusercontent.com/72812884/178146521-a0d51c19-9f70-45e1-a69a-8452cc925705.png)
 
 
 
