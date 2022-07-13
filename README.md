@@ -59,7 +59,7 @@ page, car je trouve que ce sont des polices raffinés et modernes qui se complim
 Installer wampserver64. Une fois l'installation réalisée, créér le dossier **chalets** dans le repertoire : 
 C:\wampp64\www\chalets
 
-Copier les fichiers du site Wordpress exporté dans le répertoire.
+Copier les fichiers du site Wordpress exporté dans le répertoire C:\wampp64\www\chalets.
 
 En suite démarrer Wampserver64. Le site est disponible à l'addresse suivante:
 http://localhost/chalets/
