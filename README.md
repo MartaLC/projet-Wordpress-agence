@@ -1,7 +1,7 @@
 # projet-Wordpress-agence
 Projet d'un site d'agence immobilière pour vendre ou louer des chalets de luxe.
 
-Voici les screenshots du site que j'ai réalisé.
+Voici les pages du site que j'ai réalisé avec Wordpress.
 
 **Page d'accueil:**
 
